@@ -1,1 +1,2 @@
 A fayl yaratildi.
+Github server tomonidan o'zgartirildi.
